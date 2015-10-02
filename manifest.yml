@@ -1,5 +1,6 @@
 applications:
 - name: rails-movie
+  buildpack: https://github.com/cloudfoundry/ruby-buildpack
   instances: 1
   mem: 128
   services:
