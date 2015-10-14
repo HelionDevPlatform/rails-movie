@@ -10,8 +10,8 @@ Run Locally
     
 Navigate browser to: http://localhost:3000/
 
-Deploy on Stackato
-------------------
+Deploy on HPE Helion Stackato
+-----------------------------
 
      $ stackato push -n
 
