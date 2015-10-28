@@ -1,7 +1,7 @@
 applications:
 - name: rails-movie
   instances: 1
-  mem: 128
+  memory: 128
   services:
     ${name}-db:
       type: mysql
